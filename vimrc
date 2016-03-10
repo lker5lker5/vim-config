@@ -49,6 +49,9 @@ let g:DevIconsEnableFoldersOpenClose = 1
 "VIM Interface Settings					       "
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 set number
+setlocal spell spelllang=en_au
+set clipboard=unnamed "copy and paste across different windows
+set guioptions-=L "remove left-hand scroll bar
 
 "****encoding****
 set fileencodings=ucs-bom,utf-8,utf-16,gbk,big5,gb18030,latin1
