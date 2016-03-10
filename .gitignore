@@ -1,2 +1,5 @@
-
+bundle/*
+autoload/*
+doc/*
+plugin/*
 *.swp
