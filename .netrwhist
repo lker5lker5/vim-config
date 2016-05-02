@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/vinson/Personal/IT_Tutorials/js:jq'
+let g:netrw_dirhist_2='/Users/vinson/.vim'
+let g:netrw_dirhist_3='/Users/vinson'
+let g:netrw_dirhist_4='/Users/vinson/.vim'
